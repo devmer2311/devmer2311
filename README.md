@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devmer2311
-- 📫 reach me on djkhatri.dev@proton.me
+- 📫 reach me on devmer2311@gmail.com
 
 <!---
 devmer2311/devmer2311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
